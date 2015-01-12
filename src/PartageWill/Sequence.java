@@ -178,10 +178,7 @@ public class Sequence extends javax.swing.JFrame {
             }
         });
         
-    }
-    
-      
-    
+    }   
     private Timer timer;
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
